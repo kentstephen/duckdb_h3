@@ -1,4 +1,4 @@
-# Notebooks using DuckDB and the H3 Extension
+# Notebooks using DuckDB with the H3 Extension and Overture Maps Data
 
 ![Africa](https://github.com/user-attachments/assets/2fede725-bcde-425a-94dc-65b8c2f91ca9)
 
