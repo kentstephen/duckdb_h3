@@ -1,0 +1,1 @@
+# Notebooks using DuckDB and the H3 Extension
